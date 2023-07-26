@@ -1,5 +1,5 @@
-import Loading from "@/domain/loading";
+import Layout from "@/domain/Layout";
 
 export default function Home() {
-  return <Loading />;
+  return <Layout />;
 }
